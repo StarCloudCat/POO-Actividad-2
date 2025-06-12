@@ -19,7 +19,7 @@ private int edad;
         return nombre;
     }
 
-    public String getnpellido() {
+    public String getapellido() {
         return apellido;
     }
 
